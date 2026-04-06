@@ -1,0 +1,2 @@
+# mamadou.diallo
+Technicien informatique
