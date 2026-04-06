@@ -49,5 +49,4 @@ Technicien en systèmes informatiques passionné par la fiabilité des infrastru
 ---
 
 
-  <i>"Orienté performance, sécurité et fiabilité des infrastructures technologiques."</i>
-</p>
+ 
