@@ -48,17 +48,6 @@ Technicien en systèmes informatiques passionné par la fiabilité des infrastru
 
 ---
 
-## 📂 Projets
 
-> *(À compléter au fur et à mesure de tes travaux pratiques)*
-
-| Projet | Description | Stack |
-|---|---|---|
-| 🔧 Lab Active Directory | Configuration d'un AD avec GPO | Windows Server, Hyper-V |
-| 🌐 Config réseau local | Mise en place DHCP, DNS, VPN | Cisco Packet Tracer |
-
----
-
-<p align="center">
   <i>"Orienté performance, sécurité et fiabilité des infrastructures technologiques."</i>
 </p>
