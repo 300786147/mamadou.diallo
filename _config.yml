@@ -1,0 +1,37 @@
+# ================================================
+#  GitHub Pages — _config.yml
+#  Mamadou Abdoulaye Diallo · Portfolio
+# ================================================
+
+# --- Informations de base ---
+title: "Mamadou Abdoulaye Diallo"
+description: "Technicien en systèmes informatiques · Support technique · Administration réseau · Toronto, ON"
+url: "https://TON-USERNAME.github.io"       # Remplace TON-USERNAME par ton pseudo GitHub
+baseurl: "/mamadou.diallo"                  # Nom exact de ton dépôt
+
+# --- Thème GitHub Pages (gratuit, aucune installation) ---
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# --- Ta photo de profil ---
+# Place ton image dans le dossier /assets/images/ de ton repo
+# Puis remplace le nom du fichier ci-dessous
+avatar: "/mamadou.diallo/assets/images/photo.jpg"
+
+# --- Liens de contact ---
+author:
+  name: "Mamadou Abdoulaye Diallo"
+  email: "mamadouabdoulayediallo52@gmail.com"
+  location: "Toronto, ON"
+  linkedin: ""            # Ajoute ton URL LinkedIn si tu en as un
+  github: "TON-USERNAME"  # Remplace par ton pseudo GitHub
+
+# --- Contenu affiché sous ton nom dans le header ---
+tagline: "Technicien en systèmes informatiques | Boréal 2026"
+
+# --- Paramètres Jekyll (ne pas modifier) ---
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
+lang: fr
