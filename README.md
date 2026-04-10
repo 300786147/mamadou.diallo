@@ -1,4 +1,3 @@
-<h1 align="center">👋 Mamadou Abdoulaye Diallo</h1>
 <p align="center">
   <b>Technicien en systèmes informatiques</b> · Support technique · Administration réseau<br>
   📍 Toronto, ON &nbsp;|&nbsp; 📧 mamadouabdoulayediallo52@gmail.com
