@@ -1,9 +1,4 @@
 <p align="center">
-  <b>Technicien en systèmes informatiques</b> · Support technique · Administration réseau<br>
-  📍 Toronto, ON &nbsp;|&nbsp; 📧 mamadouabdoulayediallo52@gmail.com
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/DEC_Informatique-Boréal_2026-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/DEP_Soutien_informatique-Obtenu_2025-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Langues-FR_%7C_EN-orange?style=flat-square" />
