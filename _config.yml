@@ -6,7 +6,11 @@
 # --- Informations de base ---
 title: "Mamadou Abdoulaye Diallo"
 logo: assets/images/photo.jpg
-description: "Technicien en systèmes informatiques · Support technique · Administration réseau · Toronto, ON"
+description: |
+  Technicien en systèmes informatiques
+  Support technique · Administration réseau
+  📍 Toronto, ON
+  📧 mamadouabdoulayediallo52@gmail.com
 show_downloads: false
 url: "https://300786147.github.io"
 baseurl: "/mamadou.diallo"
