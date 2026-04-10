@@ -1,31 +1,18 @@
-# ================================================
-#  GitHub Pages — _config.yml
-#  Mamadou Abdoulaye Diallo · Portfolio
-# ================================================
-
-# --- Informations de base ---
 title: "Mamadou Abdoulaye Diallo"
 logo: assets/images/photo.jpg
-description: |
-  Technicien en systèmes informatiques
-  Support technique · Administration réseau
-  📍 Toronto, ON
-  📧 mamadouabdoulayediallo52@gmail.com
+description: ""
 show_downloads: false
 url: "https://300786147.github.io"
 baseurl: "/mamadou.diallo"
 
-# --- Thème ---
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
-# --- Liens de contact ---
 author:
   name: "Mamadou Abdoulaye Diallo"
   email: "mamadouabdoulayediallo52@gmail.com"
   location: "Toronto, ON"
   github: "300786147"
 
-# --- Paramètres Jekyll ---
 markdown: kramdown
 highlighter: rouge
 encoding: utf-8
