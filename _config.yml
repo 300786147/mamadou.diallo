@@ -16,7 +16,7 @@ url: "https://300786147.github.io"
 baseurl: "/mamadou.diallo"
 
 # --- Thème ---
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # --- Liens de contact ---
 author:
