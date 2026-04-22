@@ -37,7 +37,7 @@ Technicien en systèmes informatiques passionné par la fiabilité des infrastru
 
 ## 🎓 Formation
 
-- 🟦 **DEC – Techniques des systèmes informatiques** · Collège Boréal · 2025 → 2026 *(en cours)*
+- 🟦 **DEC – Techniques des systèmes informatiques** · Collège Boréal · Obtenu en avril 2026
 - 🟩 **DEP – Soutien informatique** · Collège Boréal · Obtenu en avril 2025
 
 ---
